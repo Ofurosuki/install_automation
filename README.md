@@ -1,5 +1,5 @@
 # How to use
-1. Move to where install.sh exists.
+1. Move to where install.sh exists and gives permissions.
 ```
 chmod 777 ./install.sh
 ```
